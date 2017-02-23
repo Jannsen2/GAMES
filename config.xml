@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.rmtu.com.st.benilde.Ionics"  version = "1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="HANG INONIC MAN"  version = "1.0.0">
 
-	<name>com.st.benilde.Ionics</name>
-    <description>Midterm Project Wireless app</description>
+	<name>Hang Ionic Man</name>
+    <description>PRE FINALS</description>
     <author>IONICS</author>
 	
 	<gap:platforms>
